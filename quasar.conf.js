@@ -142,7 +142,7 @@ module.exports = configure(function (ctx) {
       manifest: {
         name: `plumV3`,
         short_name: `plumV3`,
-        description: `Building Plum with from vue 3`,
+        description: `Building HireMe, a Supa fast and amazing app for anyone looking to find unlimited work opportunities.`,
         display: "standalone",
         orientation: "portrait",
         background_color: "#ffffff",
@@ -205,7 +205,7 @@ module.exports = configure(function (ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: "plum",
+        appId: "Eazy-Jobs",
       },
 
       // "chain" is a webpack-chain object https://github.com/neutrinojs/webpack-chain

@@ -1,14 +1,12 @@
 <template>
   <page>
     <page-header>
-      <template #title> PLUM </template>
+      <template #title> Eazy-JOBS </template>
     </page-header>
     <page-body
       ><div class="q-pt-lg q-pb-md q-pl-lg q-pr-lg">
         <p v-for="i in 30" :key="i">
-          Building Plum with vue 3. This app is getting complex and I thought I
-          could redesign and rebuild it better with Vue 3 Finally found a way
-          for nesting child pages in routes.
+          Building HireMe, a Supa fast and amazing app for anyone looking to find unlimited work opportunities.
         </p>
       </div></page-body
     >

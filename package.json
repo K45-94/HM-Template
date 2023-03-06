@@ -17,11 +17,14 @@
     "quasar": "^2.6.6",
     "vue": "^3.0.0",
     "vue-i18n": "^9.0.0",
-    "vue-router": "^4.0.0"
+    "vue-router": "^4.0.0",
+    "@supabase/supabase-js": "^1.28.5",
+    "@vueauth/supabase": "^1.0.0-alpha.20"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
     "@quasar/app-webpack": "^3.5.1",
+    "@vueauth/quasar-app-extension-auth": "^1.0.0-alpha.29",
     "eslint": "^7.14.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-vue": "^7.0.0",
