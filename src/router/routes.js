@@ -5,7 +5,7 @@ const routes = [
     children: [
       {
         path: "",
-        redirect: "/feeds",
+        redirect: "/login",
       },
       {
         path: "/feeds",

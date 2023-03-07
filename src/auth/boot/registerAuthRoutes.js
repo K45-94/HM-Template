@@ -35,7 +35,7 @@ export default boot(({ router }) => {
     component: () => import("layouts/PlumLayout.vue"),
     children: [
       {
-        path: "",
+        path: "/feeds",
         name: "PageFeeds",
         component: () => import("src/pages/PageFeeds.vue"),
         meta: { authOnly: true },
